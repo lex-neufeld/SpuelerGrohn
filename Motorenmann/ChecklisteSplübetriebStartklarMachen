@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>
+Checkliste: Spülbetrieb startklar machen
+</h1>
+
+Aufgabenbeschreibung für den Motorenmann oder Decksmann des Spüler Grohn
+<br />
+Erstellt: Lex Neufeld 10.02.2026 auf Basis von Dokumenten von Wilhelm Malcherek, Peter Eckrich, Hans-Jürgen Klunk, Hartmut Wolters, Knut Messerschmidt
+<br />
+Diese Checkliste geht davon aus, dass das Schiff in einem normalen, festgemachten Zustand ist. Abweichungen von diesem Zustand müssen berücksichtet werden.
+
+<ol>
+  <li>
+  Schlüssel für Pumpen vom Schrank hohlen
+  </li>
+  <li>
+  Pumpen abdecken
+  </li>
+  <li>
+  Ölstand kontrolieren und Sichtkontrolle durchführen
+  </li>
+	<li>
+	Spülpumpen: Vor dem Starten sicherstellen, dass diese mit Wasser aufgefüllt wurden
+  <br />
+  Falls nicht: Pumpen mit Wasser auffüllen:
+  <ol>
+    <li>
+    Entwässerungsventile am Pumpfüße und Saugrohr und die Schnüffelventil im Saugleitung schließen
+    </li>
+    <li>
+    6 Eimer Wasser in das obere Ventil einfüllen
+    </li>
+    <li>
+    obere Ventil schnell schließen vor der Wasser unten ausläuft (Tech.Leiter?!)
+    </li>
+  </ol>
+	</li>
+	<li>
+  Backbord Pumpe zuerst starten, dann erst Steuerbord (Tech.Leiter?!)
+  <ol>
+    <li>
+    Drehzahlverstellhebel ca. 70% herausziehen
+    </li>
+    <li>
+    Motor starten
+    </li>
+    <li>
+    sofort runter auf ca. 40%
+    </li>
+    <li>
+    Schnüffelventile halb öffnen und warten bis 30 Sekunde, dass Wasser aus der Spülrohrbelüftung kommt
+    <br />
+    FEHLER SCHRITT: wenn kein wasser kommt, Pumpe auf leerlauf and auschalten
+    </li>
+    <li>
+    Spülrohrbelüftung schließen
+    </li>
+    <li>
+    Pumpenklappe schließen
+    <br />
+    WARNUNG: nicht bei geöffneten Pumpenklappen ablegen
+    </li>
+	<li>
+	Pumpenmotor ca. 2-3 Minuten laufen lassen
+	</li>
+  </ol>
+  </li>
+	<li>
+  Vorbereitung zum Spülen:
+  <ol>
+    <li>
+    Spülbalken in Abstimmung mit der Brücke entriegeln
+    </li>
+    <li>
+    Brücke lässt den Spülbalken herunter
+    </li>
+    <li>
+    Schnüffelventile langsam vollständig öffnen
+    </li>
+    <li>
+    Pumpendrehzahl langsam erhöhen, bis ein Förderdruck an dem Manometer ca. 1,6 bar angezeigt wird
+    </li>
+  </ol>
+  </li>
+</ol>
+
+</body>
+</html>
